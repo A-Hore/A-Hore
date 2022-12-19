@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjun Hore</h1>
-<h3 align="center">A Full Stack Developer aspires to create some good web applications by leveraging my skills in Frontend and Backend development.</h3>
+<h3 align="center">Proactive and performance-driven developer with a
+specialization in MERN stack skilled in handling multiple tasks on
+the frontend and backend. Looking forward to an exciting
+opportunity and development experience in a challenging role as
+a full-stack web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-hore&label=Profile%20views&color=0e75b6&style=flat" alt="a-hore" /> </p>
 
