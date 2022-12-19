@@ -3,7 +3,7 @@
 specialization in MERN stack skilled in handling multiple tasks on
 the frontend and backend. Looking forward to an exciting
 opportunity and development experience in a challenging role as
-a full-stack web developer.</h3>
+a full-stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-hore&label=Profile%20views&color=0e75b6&style=flat" alt="a-hore" /> </p>
 
