@@ -9,7 +9,7 @@ Hi! My name is Arjun Hore. Thank You for visiting my GitHub Profile 😄<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-hore-4411a1232/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=Orange)](email=arjunhore2611@gmail.com)
+
 
 
 ## 💻 Tech Stack:
